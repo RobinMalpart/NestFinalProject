@@ -7,6 +7,7 @@ export const routes: Routes = [
         path: 'user',
         module: UserModule,
     },
+
     {
         path: 'task',
         module: TaskModule,
