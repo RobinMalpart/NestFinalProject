@@ -4,7 +4,6 @@ import {
     Body,
     Get,
     BadRequestException,
-    HttpStatus,
     ConflictException,
     HttpCode,
 } from '@nestjs/common';
